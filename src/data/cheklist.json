@@ -1,0 +1,65 @@
+{
+  "Fase 1: Iniciação e Planejamento": {
+    "Status": "Não Iniciado",
+    "Tarefas": [
+      "Definir escopo detalhado do projeto",
+      "Criar cronograma preliminar",
+      "Identificar recursos necessários",
+      "Realizar análise de riscos inicial"
+    ]
+  },
+  "Fase 2: Análise de Requisitos": {
+    "Status": "Não Iniciado",
+    "Tarefas": [
+      "Coletar requisitos detalhados",
+      "Realizar entrevistas com stakeholders",
+      "Criar documentação de requisitos",
+      "Validar requisitos com o cliente"
+    ]
+  },
+  "Fase 3: Design e Arquitetura": {
+    "Status": "Não Iniciado",
+    "Tarefas": [
+      "Desenvolver arquitetura do sistema",
+      "Criar design de interface do usuário",
+      "Definir estrutura de dados",
+      "Realizar revisões de design"
+    ]
+  },
+  "Fase 4: Desenvolvimento": {
+    "Status": "Não Iniciado",
+    "Tarefas": [
+      "Configurar ambiente de desenvolvimento",
+      "Implementar funcionalidades core",
+      "Desenvolver interface do usuário",
+      "Realizar testes unitários"
+    ]
+  },
+  "Fase 5: Testes e Garantia de Qualidade": {
+    "Status": "Não Iniciado",
+    "Tarefas": [
+      "Executar testes de integração",
+      "Realizar testes de usabilidade",
+      "Conduzir testes de segurança",
+      "Resolver bugs e problemas identificados"
+    ]
+  },
+  "Fase 6: Implantação": {
+    "Status": "Não Iniciado",
+    "Tarefas": [
+      "Preparar ambiente de produção",
+      "Realizar migração de dados (se aplicável)",
+      "Executar implantação",
+      "Conduzir testes pós-implantação"
+    ]
+  },
+  "Fase 7: Pós-Lançamento e Manutenção": {
+    "Status": "Não Iniciado",
+    "Tarefas": [
+      "Monitorar desempenho do sistema",
+      "Coletar feedback dos usuários",
+      "Implementar atualizações e melhorias",
+      "Fornecer suporte contínuo"
+    ]
+  }
+}

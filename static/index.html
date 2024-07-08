@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OS Agents - Project Management</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>OS Agents</h1>
+        <button id="logoutBtn">Logout</button>
+    </header>
+    <main>
+        <div id="errorMessage" style="display:none;"></div>
+        <section id="projectList">
+            <h2>Your Projects</h2>
+            <div id="projects"></div>
+        </section>
+        <section id="newProject">
+            <h2>Create New Project</h2>
+            <form id="newProjectForm">
+                <input type="text" name="name" placeholder="Project Name" required>
+                <textarea name="description" placeholder="Project Description" required></textarea>
+                <input type="datetime-local" name="deadline" required>
+                <button type="submit">Create Project</button>
+            </form>
+        </section>
+    </main>
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

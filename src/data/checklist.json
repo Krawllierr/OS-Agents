@@ -1,0 +1,65 @@
+{
+  "Fase 1: Inicia\u00e7\u00e3o e Planejamento": {
+    "Status": "N\u00e3o Iniciado",
+    "Tarefas": [
+      "Definir escopo detalhado do projeto",
+      "Criar cronograma preliminar",
+      "Identificar recursos necess\u00e1rios",
+      "Realizar an\u00e1lise de riscos inicial"
+    ]
+  },
+  "Fase 2: An\u00e1lise de Requisitos": {
+    "Status": "N\u00e3o Iniciado",
+    "Tarefas": [
+      "Coletar requisitos detalhados",
+      "Realizar entrevistas com stakeholders",
+      "Criar documenta\u00e7\u00e3o de requisitos",
+      "Validar requisitos com o cliente"
+    ]
+  },
+  "Fase 3: Design e Arquitetura": {
+    "Status": "N\u00e3o Iniciado",
+    "Tarefas": [
+      "Desenvolver arquitetura do sistema",
+      "Criar design de interface do usu\u00e1rio",
+      "Definir estrutura de dados",
+      "Realizar revis\u00f5es de design"
+    ]
+  },
+  "Fase 4: Desenvolvimento": {
+    "Status": "N\u00e3o Iniciado",
+    "Tarefas": [
+      "Configurar ambiente de desenvolvimento",
+      "Implementar funcionalidades core",
+      "Desenvolver interface do usu\u00e1rio",
+      "Realizar testes unit\u00e1rios"
+    ]
+  },
+  "Fase 5: Testes e Garantia de Qualidade": {
+    "Status": "N\u00e3o Iniciado",
+    "Tarefas": [
+      "Executar testes de integra\u00e7\u00e3o",
+      "Realizar testes de usabilidade",
+      "Conduzir testes de seguran\u00e7a",
+      "Resolver bugs e problemas identificados"
+    ]
+  },
+  "Fase 6: Implanta\u00e7\u00e3o": {
+    "Status": "N\u00e3o Iniciado",
+    "Tarefas": [
+      "Preparar ambiente de produ\u00e7\u00e3o",
+      "Realizar migra\u00e7\u00e3o de dados (se aplic\u00e1vel)",
+      "Executar implanta\u00e7\u00e3o",
+      "Conduzir testes p\u00f3s-implanta\u00e7\u00e3o"
+    ]
+  },
+  "Fase 7: P\u00f3s-Lan\u00e7amento e Manuten\u00e7\u00e3o": {
+    "Status": "N\u00e3o Iniciado",
+    "Tarefas": [
+      "Monitorar desempenho do sistema",
+      "Coletar feedback dos usu\u00e1rios",
+      "Implementar atualiza\u00e7\u00f5es e melhorias",
+      "Fornecer suporte cont\u00ednuo"
+    ]
+  }
+}

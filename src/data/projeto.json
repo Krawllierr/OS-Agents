@@ -1,0 +1,40 @@
+{
+    "Nome do Projeto": "{nome do projeto}",
+    "Descrição": "{descrição detalhada gerada pelo GPT}",
+    "Objetivos Principais": [
+      "{Objetivo 1}",
+      "{Objetivo 2}",
+      "{Objetivo 3}"
+    ],
+    "Escopo do Projeto": [
+      "{Item de escopo 1}",
+      "{Item de escopo 2}"
+    ],
+    "Tecnologias Principais": [
+      "{Tecnologia 1}",
+      "{Tecnologia 2}"
+    ],
+    "Funcionalidades Chave": [
+      "{Funcionalidade 1}",
+      "{Funcionalidade 2}"
+    ],
+    "Público-Alvo": "{Descrição do público-alvo}",
+    "Prazo Estimado": "{Estimativa de prazo}",
+    "Requisitos Especiais": [
+      "{Requisito 1}",
+      "{Requisito 2}"
+    ],
+    "Riscos Potenciais": [
+      "{Risco 1}",
+      "{Risco 2}"
+    ],
+    "Métricas de Sucesso": [
+      "{Métrica 1}",
+      "{Métrica 2}"
+    ],
+    "Orçamento Estimado": "{Estimativa de orçamento}",
+    "Stakeholders Principais": [
+      "{Stakeholder 1}",
+      "{Stakeholder 2}"
+    ]
+  }
